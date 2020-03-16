@@ -39,5 +39,6 @@ public class Main {
         pc2.adaugaProcesor(c3);
 
         System.out.println(pc2.proceseaza(documente));
+        System.out.println("modificare cu start <filename> care a deschis un editor");
     }
 }
